@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Yosou_Yosowanai</string>
+    <color name="yellow">#cccc00</color>
+    <color name="turquoise">#33cc99</color>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
